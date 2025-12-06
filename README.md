@@ -21,7 +21,7 @@ git clone https://github.com/your-username/your-repo.git
 # Project Structure
 ```diff
 index.html
-style.css
+styles.css
 script.js
 images/
 ```
